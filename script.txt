@@ -1,0 +1,15 @@
+CREATE TABLE "valores" (
+	"a"	REAL,
+	"b"	REAL,
+	"c"	REAL,
+	"delta"	REAL,
+	"x1"	REAL,
+	"x2"	REAL,
+	"v1"	REAL,
+	"v2"	REAL
+);
+
+
+
+Link do video no youtube
+https://youtu.be/KJJ7eZzkut8
